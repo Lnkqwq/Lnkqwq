@@ -1,16 +1,13 @@
-## Hi there 👋
+🐛 抓 bug 中 | 📘 数学 | 💻 C++
 
-<!--
-**Lnkqwq/Lnkqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 博客施工中：Lnkqwq.github.io
 
-Here are some ideas to get you started:
+🧠 脑子：我会了
+👆 手：你闭嘴
+💻 代码：404 not found
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 
+Lnkqwq v1.0
+⚙️ 正在运行：数学分析.exe
+🐞 bug 捕获率：99%
+💤 剩余电量：无限
