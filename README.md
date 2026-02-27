@@ -14,14 +14,12 @@
 Lnk v1.0
 ⚙️ 正在运行：数学分析.exe | 🐞 bug 捕获率：99% | 💤 剩余电量：无限
 
-### 📊 GitHub 统计
-
-![Lnkqwq's GitHub stats](！[Lnkqwq的GitHub统计](
-                  https://github-readme-stats.vercel.app/api?username=Lnkqwq&show_icons=true&theme=radical)https://github-readme-stats.vercel.app/api?username=Lnkqwq& show_icons = true&主题=激进)https://github-readme-stats.vercel.app/api?username=Lnkqwq&show_icons=true&theme=radical)https://github-readme-stats.vercel.app/api?username=Lnkqwq& show_icons = true&主题=激进)
-                  
-
-### 📈 常用语言
-
-![Top Langs](   ！沿着]([顶部
-                  https://github-readme-stats.vercel.app/api/top-langs/?username=Lnkqwq&layout=compact&theme=radical)https://github-readme-stats.vercel.app/api/top-langs/?username=Lnkqwq&布局= compact&主题=激进)
-                
+<p align   对齐="center"   "center">
+  <a href="
+                  https://git.io/typing-svg
+                  ">
+    <img src="
+                  https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&width=435&lines=
+                  逢山开路%2C+遇水搭桥；CF+题解+ing；数学分析+ing；编程+%26+数学+%26+游记" alt="Typing SVG" />
+  </a>   < / a>
+  </p>   < / p>
