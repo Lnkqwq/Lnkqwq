@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="
+                  https://git.io/typing-svg
+                  ">
+    <img src="
+                  https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&width=435&lines=
+                  逢山开路%2C+遇水搭桥；CF+题解+ing；数学分析+ing；编程+%26+数学+%26+游记" alt="Typing SVG" />
+  </a>
+</p>
 🐛 抓 bug 中 | 📘 数学 | 💻 C++
 
 🚧 博客施工中：Lnkqwq.github.io
