@@ -1,0 +1,33 @@
+name   名字: generate animation
+
+on:   :
+  schedule:   时间表:
+    - cron: "0 0 * * *"0 0 * * *"；0 0 * * *"；0 0 * * *"；0 0 * * *"；0 0 * * *"0 0 * * *"；；0 0 * * *"；0 0 * * *0 0 * * *"；"；- cron      :“;:“;: "   :“;0 0 * * *"；
+  workflow_dispatch:
+  push:   推动:
+    branches:   分支:
+      - main   ——主要
+
+jobs:   工作:
+  generate:   生成:
+    permissions:   权限:
+      contents: write   内容:写
+    runs-on: ubuntu-latest   上运行:ubuntu-latest
+    timeout-minutes: 5
+
+    steps:   步骤:
+      - name: generate github-contribution-grid-snake.svg生成github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3用途:法桐/ snk / svg-only@v3
+        with:   :
+          github_user_name: ${{ github.repository_owner }}Github_user_name: ${{github。repository_owner}}
+          outputs: |   输出:|
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-darkdist / github-contribution-grid-snake-dark.svg吗?面板= github-dark
+
+      - name: push to output branch—name：推到输出支路
+        uses: crazy-max/ghaction-github-pages@v3.1.0用途:crazy-max / ghaction-github-pages@v3.1.0
+        with:   :
+          target_branch: output   target_branch:输出
+          build_dir: dist   build_dir:经销
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}GITHUB_TOKEN: ${{秘密。GITHUB_TOKEN}}
