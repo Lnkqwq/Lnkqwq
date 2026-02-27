@@ -1,3 +1,9 @@
+<p align   对齐="center"   "center">
+  <img src="   <img src="
+                  https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lnkqwq&fontSize=60&fontAlign=50&fontAlignY=35&animation=twinkling
+                  " width="100%"/>   “宽度=“100%“/比;
+</p>   < / p>
+
 🐛 抓 bug 中 | 📘 数学 | 💻 C++
 
 🚧 博客施工中：Lnkqwq.github.io
@@ -13,13 +19,3 @@
 🤖 
 Lnk v1.0
 ⚙️ 正在运行：数学分析.exe | 🐞 bug 捕获率：99% | 💤 剩余电量：无限
-
-<p align   对齐="center"   "center">
-  <a href="
-                  https://git.io/typing-svg
-                  ">
-    <img src="
-                  https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&width=435&lines=
-                  逢山开路%2C+遇水搭桥；CF+题解+ing；数学分析+ing；编程+%26+数学+%26+游记" alt="Typing SVG" />
-  </a>   < / a>
-  </p>   < / p>
