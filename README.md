@@ -1,5 +1,5 @@
 ![Header](
-                  https://capsule-render.vercel.app/api?type=waving&color=0:FFAE42,100:F39C12&height=100&section=header&text=林克&fontSize=30&fontAlign=50&fontAlignY=35&animation=twinkling&font=JetBrains%20Mono)
+                  https://capsule-render.vercel.app/api?type=waving&color=0:0B5E4B,100:1ABC9C&height=100&section=header&text=林克&fontSize=30&fontAlign=50&fontAlignY=35&animation=twinkling&font=JetBrains%20Mono)
 🐛 抓 bug 中 | 📘 数学 | 💻 C++
 
 🚧 博客施工中：Lnkqwq.github.io
