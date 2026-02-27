@@ -24,4 +24,4 @@ Lnk v1.0
   <img alt="github contribution grid snake animation" src="
                   https://raw.githubusercontent.com/Lnkqwq/Lnkqwq/output/github-contribution-grid-snake.svg
                   ">
-</picture> 
+</picture>
